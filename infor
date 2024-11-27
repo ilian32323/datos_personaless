@@ -1,0 +1,12 @@
+[
+ {
+ "run": "14141414-9",
+ "nombre": "ilian",
+ "apellido": "oyarzun",
+ "direccion": "nacap",
+ "fono": 141414142,
+ "correo":"ilian.oyarzun@inacap.cl",
+ "montoCredito": 1400000,
+ "deuda":5000,
+ "tipo": 3
+ }
